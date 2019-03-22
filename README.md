@@ -1,4 +1,4 @@
----
+
 # youtube-video-duration-parser
 a small parser function for YouTube Videos resource API
 
@@ -53,10 +53,9 @@ it will outputs : 11:00:01
 
 just input the time-code string , it outputs time-code and fixes the digit display problem.
 
----
 
-# youtube-video-duration-parser
-# YouTube 時間格式解析程式  
+
+# YouTube 影片時間格式解析程式  
 用來解析 YouTube Videos 資源 API 回傳時間格式的小程式
 
 當你在使用 YouTube Videos 資源 API , 類似像  
